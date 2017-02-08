@@ -4,3 +4,4 @@ Gitの使い方
 mkdir ディレクトリを作る
 cd ディレクトリを変更する
 git init gitファイルに変更する
+git add . 　ファイルがすべて
